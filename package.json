@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-backend-template",
+  "version": "1.0.0",
+  "description": "nodejs backend production template",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
